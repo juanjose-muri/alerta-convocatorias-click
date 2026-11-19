@@ -1,43 +1,7 @@
 {
-  "fecha": "2026-11-19T23:24:04+00:00",
-  "fecha_texto": "19/11/2026 6:24 p. m.",
-  "revisadas": 18,
+  "fecha": "2026-11-19T23:37:46+00:00",
+  "fecha_texto": "19/11/2026 6:37 p. m.",
+  "revisadas": 13,
   "cambios": 0,
-  "errores": [
-    {
-      "slug": "pnud-colombia-adquisiciones",
-      "nombre": "PNUD Colombia · adquisiciones",
-      "error": "HTTPError: HTTP Error 403: Forbidden"
-    },
-    {
-      "slug": "oei-colombia-contrataciones",
-      "nombre": "OEI Colombia · contrataciones",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "slug": "british-council-oportunidades-colombia",
-      "nombre": "British Council · oportunidades (Colombia)",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "slug": "alcaldia-de-bogota-boletin-de-oferta-internacional",
-      "nombre": "Alcaldía de Bogotá · boletín de oferta internacional",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "slug": "fundacion-sura-convocatorias",
-      "nombre": "Fundación SURA · convocatorias",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "slug": "fundacion-saldarriaga-concha-convocatorias",
-      "nombre": "Fundación Saldarriaga Concha · convocatorias",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    },
-    {
-      "slug": "fundacion-corona-convocatorias",
-      "nombre": "Fundación Corona · convocatorias",
-      "error": "HTTPError: HTTP Error 404: Not Found"
-    }
-  ]
+  "errores": []
 }
