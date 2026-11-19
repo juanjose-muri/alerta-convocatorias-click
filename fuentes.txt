@@ -1,19 +1,35 @@
-# Alerta de convocatorias · páginas que se vigilan
+# Lista: Alerta de convocatorias · Click+Clack
 #
-# Una página por línea, así:
+# Páginas que se vigilan, una por línea:
 #   Nombre | dirección | palabras (opcional)
 #
 # «palabras»: si las escribes, separadas por comas, solo se comparan las líneas
 # de la página que tengan alguna de ellas. Sirve cuando una página cambia mucho
-# por cosas que no te importan.
+# por cosas que no importan, o cuando mezcla varios países.
 # Las líneas que empiezan con # no se leen.
+#
+# SECOP II no va aquí: esa vigilancia se hace aparte, por NIT, con Croma.
 
-MinCiencias · convocatorias | https://minciencias.gov.co/convocatorias/todas
-MinTIC · convocatorias | https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Convocatorias/
+# --- Cooperación internacional y multilaterales ---
+UNICEF Colombia · convocatorias para empresas | https://www.unicef.org/colombia/convocatorias-para-empresas
+PNUD Colombia · adquisiciones | https://www.undp.org/es/colombia/adquisiciones
+OEI Colombia · contrataciones | https://oei.int/oficinas/colombia/contrataciones
+BID · avisos de adquisiciones | https://www.iadb.org/es/como-trabajar-juntos/adquisiciones/adquisiciones-para-proyectos/avisos-de-adquisiciones
+British Council · oportunidades (Colombia) | https://opportunities-insight.britishcouncil.org/news/opportunities | colombia
 APC-Colombia · fondos de cooperación | https://www.apccolombia.gov.co/fondos-cooperacion
-APC-Colombia · comisiones mixtas sur-sur | https://www.apccolombia.gov.co/convocatorias-comisiones-mixtas-de-cooperacion-entre-paises-del-sur-global
-ICETEX · becas vigentes en el exterior | https://web.icetex.gov.co/becas/becas-para-estudios-en-el-exterior/becas-vigentes
-Fondo Acción · convocatorias | https://fondoaccion.org/convocatorias/
-Fondo Emprender (SENA) | https://www.fondoemprender.com/SitePages/Home.aspx
 Fondo Multidonante de la ONU para la Paz · convocatorias | https://fondoonucol.org/convocatorias/
+Alcaldía de Bogotá · boletín de oferta internacional | https://bogota.gov.co/boletin-oferta-internacional
+
+# --- Gobierno nacional (fuera de SECOP) ---
+MinCulturas · convocatorias | https://www.mincultura.gov.co/convocatorias
+MinTIC · convocatorias | https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Convocatorias/
+MinCiencias · convocatorias | https://minciencias.gov.co/convocatorias/todas
+Colombia Aprende (MEN) · convocatorias | https://colombiaaprende.edu.co/agenda/convocatorias
+MEN · becas y convocatorias de cooperación internacional | https://www.mineducacion.gov.co/portal/micrositios-institucionales/Cooperacion-Internacional/Becas-convocatorias-y-premios-de-cooperacion-internacional/420940:Becas-y-convocatorias
+
+# --- Fundaciones y responsabilidad social ---
 Fundación Bolívar Davivienda · convocatorias | https://www.fundacionbolivardavivienda.org/convocatorias/
+Fondo Acción · convocatorias | https://fondoaccion.org/convocatorias/
+Fundación SURA · convocatorias | https://www.fundacionsura.com/convocatorias
+Fundación Saldarriaga Concha · convocatorias | https://www.saldarriagaconcha.org/convocatorias/
+Fundación Corona · convocatorias | https://www.fundacioncorona.org/es/convocatorias
