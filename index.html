@@ -3,26 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Alerta de convocatorias · Estado X</title>
-<meta name="description" content="Una vez al día revisamos páginas oficiales de convocatorias, fondos y becas en Colombia y te mostramos cuáles cambiaron y qué apareció. Sin cuentas ni formularios.">
+<title>Alerta de convocatorias · Click+Clack</title>
+<meta name="description" content="Una vez al día revisamos páginas de convocatorias de cooperación, gobierno y fundaciones que le interesan a Click+Clack, y mostramos cuáles cambiaron y qué apareció.">
+<meta name="robots" content="noindex">
 <meta name="color-scheme" content="light">
 <meta name="theme-color" content="#f2ebdc">
-<link rel="canonical" href="https://estado-x.github.io/alerta-convocatorias-colombia/">
-<meta property="og:type" content="website">
-<meta property="og:locale" content="es_CO">
-<meta property="og:site_name" content="Alerta de convocatorias · Consultorio X de Estado X">
-<meta property="og:url" content="https://estado-x.github.io/alerta-convocatorias-colombia/">
-<meta property="og:title" content="Alerta de convocatorias">
-<meta property="og:description" content="Una vez al día revisamos páginas oficiales de convocatorias, fondos y becas en Colombia y te mostramos cuáles cambiaron y qué apareció. Sin cuentas ni formularios.">
-<meta property="og:image" content="https://estado-x.github.io/alerta-convocatorias-colombia/docs/compartir.png">
-<meta property="og:image:width" content="1200">
-<meta property="og:image:height" content="630">
-<meta property="og:image:alt" content="Alerta de convocatorias. Herramienta abierta · Consultorio X de Estado X">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Alerta de convocatorias">
-<meta name="twitter:description" content="Una vez al día revisamos páginas oficiales de convocatorias, fondos y becas en Colombia y te mostramos cuáles cambiaron y qué apareció.">
-<meta name="twitter:image" content="https://estado-x.github.io/alerta-convocatorias-colombia/docs/compartir.png">
-<link rel="alternate" type="application/atom+xml" title="Alerta de convocatorias · Estado X" href="data/feed.xml">
+<link rel="alternate" type="application/atom+xml" title="Alerta de convocatorias · Click+Clack" href="data/feed.xml">
 <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="assets/estilos.css">
 </head>
@@ -32,13 +18,12 @@
 <header class="cab">
   <div class="contenedor cab__in">
     <div class="cab__texto">
-      <p class="kicker">Herramienta abierta · Consultorio X de Estado X</p>
+      <p class="kicker">Equipo de alianzas · Click+Clack</p>
       <h1>Alerta de <em>convocatorias</em></h1>
-      <p class="bajada">Una vez al día revisamos páginas oficiales de convocatorias, fondos y becas en Colombia y te mostramos cuáles cambiaron y qué apareció. Sin cuentas ni formularios.</p>
+      <p class="bajada">Una vez al día revisamos las páginas de convocatorias de cooperación, gobierno y fundaciones que le interesan a Click+Clack, y mostramos cuáles cambiaron y qué apareció. SECOP se vigila aparte.</p>
       <div class="cab__accion">
         <a class="boton" href="#avisos">Recibe los avisos</a>
-        <a class="enlace-fuerte" href="#lista">Haz tu propia lista</a>
-        <a class="enlace-fuerte" href="doctorado/">¿Buscas beca de doctorado? Mira esta lista</a>
+        <a class="enlace-fuerte" href="#lista">Agregar una página</a>
       </div>
     </div>
     <div class="pulso" aria-live="polite">
@@ -89,19 +74,18 @@
           <li class="camino">
             <h3>Por correo de GitHub</h3>
             <p>Con una cuenta gratis de GitHub, entra al repo, pulsa <span class="tecla">Watch</span> → <span class="tecla">Custom</span> → <span class="tecla">Issues</span>, y te llega un correo cada vez que una página cambia.</p>
-            <a class="boton boton--linea" href="https://github.com/Estado-X/alerta-convocatorias-colombia" target="_blank" rel="noopener">Ir al repo en GitHub</a>
+            <a class="boton boton--linea" href="https://github.com/juanjose-muri/alerta-convocatorias-click" target="_blank" rel="noopener">Ir al repo en GitHub</a>
           </li>
         </ul>
       </section>
 
       <section class="seccion" id="lista" aria-labelledby="t-lista">
-        <div class="seccion__cab"><h2 id="t-lista">Haz tu propia lista</h2></div>
-        <p class="entrada">Vigila las páginas que le importan a tu equipo, en cuatro pasos.</p>
+        <div class="seccion__cab"><h2 id="t-lista">Agregar una página</h2></div>
+        <p class="entrada">La lista vive en un archivo de texto del repo.</p>
         <ol class="pasos">
-          <li class="paso"><span class="paso__num" aria-hidden="true">1</span><p><span class="sr">1. </span>En el <a href="https://github.com/Estado-X/alerta-convocatorias-colombia" target="_blank" rel="noopener">repo</a>, pulsa <span class="tecla">Use this template</span> para crear tu copia (gratis).</p></li>
-          <li class="paso"><span class="paso__num" aria-hidden="true">2</span><div><p><span class="sr">2. </span>Abre <code>fuentes.txt</code> y escribe tus páginas, una por línea:</p><p class="ejemplo"><code>Nombre | dirección</code></p></div></li>
-          <li class="paso"><span class="paso__num" aria-hidden="true">3</span><p><span class="sr">3. </span>En la pestaña <span class="tecla">Actions</span>, activa los flujos y prende la revisión diaria.</p></li>
-          <li class="paso"><span class="paso__num" aria-hidden="true">4</span><p><span class="sr">4. </span>Pulsa <span class="tecla">Watch</span> para recibir los avisos por correo.</p></li>
+          <li class="paso"><span class="paso__num" aria-hidden="true">1</span><p><span class="sr">1. </span>Abre <a href="https://github.com/juanjose-muri/alerta-convocatorias-click/blob/main/fuentes.txt" target="_blank" rel="noopener"><code>fuentes.txt</code></a> y pulsa el lápiz para editarlo.</p></li>
+          <li class="paso"><span class="paso__num" aria-hidden="true">2</span><div><p><span class="sr">2. </span>Agrega una línea por página:</p><p class="ejemplo"><code>Nombre | dirección</code></p></div></li>
+          <li class="paso"><span class="paso__num" aria-hidden="true">3</span><p><span class="sr">3. </span>Guarda con <span class="tecla">Commit changes</span>. La página nueva entra en la próxima revisión.</p></li>
         </ol>
       </section>
     </div>
@@ -116,22 +100,13 @@
 
   </div>
 
-  <section class="hablamos oscuro" aria-labelledby="t-hablamos">
-    <div class="contenedor hablamos__in">
-      <p class="kicker">Consultorio X de Estado X</p>
-      <h2 id="t-hablamos">¿Hablamos de tu caso?</h2>
-      <p>Esta alerta es una muestra. En Consultorio X montamos con tu equipo el ciclo completo de una convocatoria: buscar, leer los términos de referencia, ordenar aliados, traducir la propuesta y preparar el informe al financiador.</p>
-      <a class="boton boton--claro" href="https://www.linkedin.com/in/juanperezcuervo/" target="_blank" rel="noopener">Escríbeme en LinkedIn</a>
-      <p class="firma">Juan Camilo Pérez Cuervo · Head de Alianzas y Proyectos Estratégicos de Estado X</p>
-    </div>
-  </section>
 </main>
 
 <footer class="pie oscuro">
   <div class="contenedor pie__in">
-    <p>Hecho por Estado X · licencia MIT · Inspirado en <a href="https://github.com/dgtlmoon/changedetection.io" target="_blank" rel="noopener">changedetection.io</a>, de dgtlmoon (licencia Apache-2.0)</p>
+    <p>Adaptado por Click+Clack de la <a href="https://github.com/Estado-X/alerta-convocatorias-colombia" target="_blank" rel="noopener">Alerta de convocatorias</a> de Estado X (licencia MIT), inspirada en <a href="https://github.com/dgtlmoon/changedetection.io" target="_blank" rel="noopener">changedetection.io</a>, de dgtlmoon (licencia Apache-2.0).</p>
     <p>Los datos y las convocatorias son de cada entidad.</p>
-    <p><a href="https://estadox.com" target="_blank" rel="noopener">estadox.com</a> · Esta página no tiene rastreadores.</p>
+    <p>Esta página no tiene rastreadores.</p>
   </div>
 </footer>
 
