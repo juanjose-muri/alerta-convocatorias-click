@@ -18,6 +18,7 @@ termina sin error.
 
 Hecho por Estado X (2026), licencia MIT. Inspirado en changedetection.io,
 de dgtlmoon (licencia Apache-2.0); no reutiliza su código.
+Adaptado para el equipo de alianzas de Click+Clack.
 """
 from __future__ import annotations
 
@@ -55,7 +56,7 @@ DATOS = RAIZ / "data" / LISTA if LISTA else RAIZ / "data"
 TEXTOS = DATOS / "textos"
 
 BOGOTA = timezone(timedelta(hours=-5), "Bogotá")
-AGENTE = "Mozilla/5.0 (compatible; AlertaConvocatorias/1.0; +https://github.com/Estado-X/alerta-convocatorias-colombia)"
+AGENTE = "Mozilla/5.0 (compatible; AlertaConvocatorias/1.0; +https://github.com/juanjose-muri/alerta-convocatorias-click)"
 TIEMPO_ESPERA = 40      # segundos por cada lectura de la red
 TIEMPO_TOTAL = 90       # segundos como máximo para descargar una página completa
 TAMANO_MAXIMO = 8_000_000
@@ -68,7 +69,7 @@ def _sitio() -> str:
     """Dirección de la página: SITIO_URL si existe; si no, la de GitHub Pages del repo."""
     if os.environ.get("SITIO_URL"):
         return os.environ["SITIO_URL"]
-    repo = os.environ.get("GITHUB_REPOSITORY", "Estado-X/alerta-convocatorias-colombia")
+    repo = os.environ.get("GITHUB_REPOSITORY", "juanjose-muri/alerta-convocatorias-click")
     dueno, _, nombre = repo.partition("/")
     return f"https://{dueno.lower()}.github.io/{nombre}/"
 
@@ -305,7 +306,7 @@ def feed(cambios: list[dict], ahora: datetime) -> str:
             "  <entry>\n"
             f"    <title>{x('Cambió: ' + c['nombre'])}</title>\n"
             f"    <link href=\"{x(c['url'])}\"/>\n"
-            f"    <id>tag:estado-x.github.io,2026:{x((LISTA + ':') if LISTA else '')}{x(c['slug'])}:{x(c['fecha'])}</id>\n"
+            f"    <id>tag:juanjose-muri.github.io,2026:{x((LISTA + ':') if LISTA else '')}{x(c['slug'])}:{x(c['fecha'])}</id>\n"
             f"    <updated>{x(c['fecha'])}</updated>\n"
             f"    <summary>{x(resumen)}</summary>\n"
             "  </entry>"
@@ -313,12 +314,12 @@ def feed(cambios: list[dict], ahora: datetime) -> str:
     return (
         '<?xml version="1.0" encoding="utf-8"?>\n'
         '<feed xmlns="http://www.w3.org/2005/Atom">\n'
-        f"  <title>{x(titulo_lista())} · Estado X</title>\n"
+        f"  <title>{x(titulo_lista())}</title>\n"
         f"  <link href=\"{x(PAGINA)}\"/>\n"
         f"  <link rel=\"self\" href=\"{x(SITIO + RUTA_FEED)}\"/>\n"
         f"  <id>{x(PAGINA)}</id>\n"
         f"  <updated>{ahora.isoformat(timespec='seconds')}</updated>\n"
-        "  <author><name>Estado X</name></author>\n"
+        "  <author><name>Click+Clack</name></author>\n"
         + "\n".join(entradas)
         + "\n</feed>\n"
     )
