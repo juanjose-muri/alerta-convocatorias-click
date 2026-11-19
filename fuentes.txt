@@ -9,16 +9,17 @@
 # Las líneas que empiezan con # no se leen.
 #
 # SECOP II no va aquí: esa vigilancia se hace aparte, por NIT, con Croma.
+#
+# Probadas y descartadas (bloquean robots o cargan todo con JavaScript):
+# PNUD Colombia (adquisiciones), UNGM, BID (avisos de adquisiciones),
+# British Council (licitaciones en in-tendhost). Esas se revisan a mano.
 
 # --- Cooperación internacional y multilaterales ---
 UNICEF Colombia · convocatorias para empresas | https://www.unicef.org/colombia/convocatorias-para-empresas
-PNUD Colombia · adquisiciones | https://www.undp.org/es/colombia/adquisiciones
-OEI Colombia · contrataciones | https://oei.int/oficinas/colombia/contrataciones
-BID · avisos de adquisiciones | https://www.iadb.org/es/como-trabajar-juntos/adquisiciones/adquisiciones-para-proyectos/avisos-de-adquisiciones
-British Council · oportunidades (Colombia) | https://opportunities-insight.britishcouncil.org/news/opportunities | colombia
+OEI · licitaciones (todas las sedes) | https://oei.int/licitaciones-y-convocatorias/
 APC-Colombia · fondos de cooperación | https://www.apccolombia.gov.co/fondos-cooperacion
 Fondo Multidonante de la ONU para la Paz · convocatorias | https://fondoonucol.org/convocatorias/
-Alcaldía de Bogotá · boletín de oferta internacional | https://bogota.gov.co/boletin-oferta-internacional
+Alcaldía de Bogotá · boletín de oferta internacional | https://bogota.gov.co/boletin-de-oferta-internacional/
 
 # --- Gobierno nacional (fuera de SECOP) ---
 MinCulturas · convocatorias | https://www.mincultura.gov.co/convocatorias
@@ -30,6 +31,4 @@ MEN · becas y convocatorias de cooperación internacional | https://www.mineduc
 # --- Fundaciones y responsabilidad social ---
 Fundación Bolívar Davivienda · convocatorias | https://www.fundacionbolivardavivienda.org/convocatorias/
 Fondo Acción · convocatorias | https://fondoaccion.org/convocatorias/
-Fundación SURA · convocatorias | https://www.fundacionsura.com/convocatorias
-Fundación Saldarriaga Concha · convocatorias | https://www.saldarriagaconcha.org/convocatorias/
-Fundación Corona · convocatorias | https://www.fundacioncorona.org/es/convocatorias
+Fundación SURA · postula | https://www.fundacionsura.com/postula/
