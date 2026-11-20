@@ -1,3 +1,60 @@
 {
-  "cambios": []
+  "cambios": [
+    {
+      "slug": "oei-licitaciones-todas-las-sedes",
+      "nombre": "OEI · licitaciones (todas las sedes)",
+      "url": "https://oei.int/licitaciones-y-convocatorias/",
+      "fecha": "2026-11-20T16:10:39+00:00",
+      "fecha_texto": "20/11/2026 11:10 a. m.",
+      "agregadas": [
+        "CONTRATACIÓN DE SERVICIOS DE UNA FIRMA CONSULTORA NACIONAL PARA LA IMPLEMENTACIÓN DE UN SOFTWARE BI (Business Intelligence, Inteligencia de Negocios)",
+        "“CONSULTORÍA INDIVIDUAL PARA LA IDENTIFICACIÓN, DISEÑO DE CONCURSO Y EQUIPAMIENTO DE LABORATORIOS DE INNOVACIÓN CULTURAL Y CREATIVA” SEGUNDA CONVOCATORIA",
+        "Nº 289 – Premio DD.HH. a la España vaciada",
+        "Podcast | 11 Ene. 2022"
+      ],
+      "agregadas_n": 4,
+      "quitadas_n": 5,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/1"
+    },
+    {
+      "slug": "alcaldia-de-bogota-boletin-de-oferta-internacional",
+      "nombre": "Alcaldía de Bogotá · boletín de oferta internacional",
+      "url": "https://bogota.gov.co/boletin-de-oferta-internacional/",
+      "fecha": "2026-11-20T16:10:39+00:00",
+      "fecha_texto": "20/11/2026 11:10 a. m.",
+      "agregadas": [
+        "Grito de Mujer 2027: lleva la voz y el arte de Bogotá al mundo",
+        "¿Te imaginas que el arte y la cultura de Bogotá se unan a un movimiento mundial para visibilizar las voces de mujeres y niñas? Esta convocatoria internacional invita a transformar la creatividad y la solidaridad en espacios de encuentro, reflexió...",
+        "2027-02-15",
+        "Concurso Internacional de Artes Plásticas 2027: lleva tu talento al mundo",
+        "¿Te gusta dibujar, pintar o expresar tus emociones a través del arte? Tu creatividad puede cruzar fronteras y llegar hasta Francia. Esta convocatoria internacional invita a niñas, niños y jóvenes de Bogotá a compartir su talento con el mundo.",
+        "N...",
+        "2027-01-01",
+        "EU-LAC Digital Accelerator 2026: hasta 10.500 euros para startups de Bogotá",
+        "¿Tienes una startup en Bogotá y sueñas con llevar tu solución digital a nuevos mercados? Esta convocatoria internacional puede ayudarte a convertir una idea innovadora en una oportunidad de crecimiento empresarial.",
+        "Nombre de la oferta: EU-LAC Dig...",
+        "Becas JICA 2027: oportunidad de capacitación en Japón para Bogotá",
+        "¿Te imaginas viajar a Japón para fortalecer tus conocimientos, descubrir nuevas experiencias y compartir lo aprendido con tu comunidad? Esta oportunidad puede abrirte las puertas a una experiencia de formación internacional.",
+        "Nombre de la oferta: P...",
+        "2026-12-04"
+      ],
+      "agregadas_n": 14,
+      "quitadas_n": 16,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/2"
+    },
+    {
+      "slug": "colombia-aprende-men-convocatorias",
+      "nombre": "Colombia Aprende (MEN) · convocatorias",
+      "url": "https://colombiaaprende.edu.co/agenda/convocatorias",
+      "fecha": "2026-11-20T16:10:39+00:00",
+      "fecha_texto": "20/11/2026 11:10 a. m.",
+      "agregadas": [
+        "18/11/2026",
+        "El 20 de noviembre. Día Mundial de la Infancia"
+      ],
+      "agregadas_n": 2,
+      "quitadas_n": 2,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/3"
+    }
+  ]
 }
