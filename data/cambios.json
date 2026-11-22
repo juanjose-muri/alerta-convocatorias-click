@@ -1,6 +1,24 @@
 {
   "cambios": [
     {
+      "slug": "oei-licitaciones-todas-las-sedes",
+      "nombre": "OEI · licitaciones (todas las sedes)",
+      "url": "https://oei.int/licitaciones-y-convocatorias/",
+      "fecha": "2026-11-22T15:20:27+00:00",
+      "fecha_texto": "22/11/2026 10:20 a. m.",
+      "agregadas": [
+        "Reserva de Arte Municipal Alberto Mena Caamaño actualiza su registro de bienes patrimoniales",
+        "Noticias | 9 Sep. 2022",
+        "Propuestas de trabajo conjunto entre el Ministerio de Ciencia y Tecnología de Catamarca, Fundación UOCRA y la OEI Argentina",
+        "Noticias | 31 Ene. 2020",
+        "Construyendo el futuro desde las aulas",
+        "Publicación"
+      ],
+      "agregadas_n": 6,
+      "quitadas_n": 6,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/7"
+    },
+    {
       "slug": "unicef-colombia-convocatorias-para-empresas",
       "nombre": "UNICEF Colombia · convocatorias para empresas",
       "url": "https://www.unicef.org/colombia/convocatorias-para-empresas",
