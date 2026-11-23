@@ -1,7 +1,13 @@
 {
-  "fecha": "2026-11-22T15:20:27+00:00",
-  "fecha_texto": "22/11/2026 10:20 a. m.",
+  "fecha": "2026-11-23T19:15:41+00:00",
+  "fecha_texto": "23/11/2026 2:15 p. m.",
   "revisadas": 13,
   "cambios": 1,
-  "errores": []
+  "errores": [
+    {
+      "slug": "fondo-accion-convocatorias",
+      "nombre": "Fondo Acción · convocatorias",
+      "error": "URLError: <urlopen error timed out>"
+    }
+  ]
 }

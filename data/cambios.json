@@ -4,6 +4,23 @@
       "slug": "oei-licitaciones-todas-las-sedes",
       "nombre": "OEI · licitaciones (todas las sedes)",
       "url": "https://oei.int/licitaciones-y-convocatorias/",
+      "fecha": "2026-11-23T19:15:41+00:00",
+      "fecha_texto": "23/11/2026 2:15 p. m.",
+      "agregadas": [
+        "La OEI apoya el lanzamiento de “El Quijote Iberoamericano”",
+        "Noticias | 6 Sep. 2019",
+        "Santillana, OEI y Fundación Santillana lanzan la tercera edición del Premio Escuelas Sostenibles",
+        "Nota de prensa | 21 Abr. 2025",
+        "Revista Iberoamericana de Educación"
+      ],
+      "agregadas_n": 5,
+      "quitadas_n": 5,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/8"
+    },
+    {
+      "slug": "oei-licitaciones-todas-las-sedes",
+      "nombre": "OEI · licitaciones (todas las sedes)",
+      "url": "https://oei.int/licitaciones-y-convocatorias/",
       "fecha": "2026-11-22T15:20:27+00:00",
       "fecha_texto": "22/11/2026 10:20 a. m.",
       "agregadas": [
