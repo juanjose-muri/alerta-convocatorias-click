@@ -4,6 +4,48 @@
       "slug": "oei-licitaciones-todas-las-sedes",
       "nombre": "OEI · licitaciones (todas las sedes)",
       "url": "https://oei.int/licitaciones-y-convocatorias/",
+      "fecha": "2026-11-24T18:54:28+00:00",
+      "fecha_texto": "24/11/2026 1:54 p. m.",
+      "agregadas": [
+        "Licitaciones ( 3392 )",
+        "3387",
+        "1 Dic. 2026 · 23:59",
+        "Ref. 148/2026 · En fase de apresentação",
+        "Contratação de consultor na Modalidade PRODUTO PROJETO OEI/BRA/24/004 – TR 13431",
+        "26 Nov. 2026 · 23:59",
+        "Ref. 147/2026 · En fase de apresentação",
+        "Contratação de consultor PROJETO ACORDO EXEC MUSEDUCA RS – TR 13457",
+        "Ref. 146/2026 · En fase de apresentação",
+        "Contratação de consultor PROJETO ACORDO EXEC MUSEDUCA RS – TR 13456",
+        "Ref. 145/2026 · En fase de apresentação",
+        "Contratação de consultor PROJETO ACORDO EXEC MUSEDUCA RS – TR 13454",
+        "Ref. 144/2026 · En fase de apresentação",
+        "Contratação de consultor PROJETO ACORDO EXEC MUSEDUCA RS – TR 13450",
+        "OEI firma convenio de colaboración con el Ministerio de Relaciones Exteriores de la República Dominicana",
+        "Noticias | 22 Feb. 2022"
+      ],
+      "agregadas_n": 16,
+      "quitadas_n": 22,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/9"
+    },
+    {
+      "slug": "alcaldia-de-bogota-boletin-de-oferta-internacional",
+      "nombre": "Alcaldía de Bogotá · boletín de oferta internacional",
+      "url": "https://bogota.gov.co/boletin-de-oferta-internacional/",
+      "fecha": "2026-11-24T18:54:28+00:00",
+      "fecha_texto": "24/11/2026 1:54 p. m.",
+      "agregadas": [
+        "Becas, cursos gratis y apoyos a emprendedores: convocatorias en el Boletín de Oferta Internacional de Bogotá",
+        "23-Nov-2026"
+      ],
+      "agregadas_n": 2,
+      "quitadas_n": 2,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/10"
+    },
+    {
+      "slug": "oei-licitaciones-todas-las-sedes",
+      "nombre": "OEI · licitaciones (todas las sedes)",
+      "url": "https://oei.int/licitaciones-y-convocatorias/",
       "fecha": "2026-11-23T19:15:41+00:00",
       "fecha_texto": "23/11/2026 2:15 p. m.",
       "agregadas": [
