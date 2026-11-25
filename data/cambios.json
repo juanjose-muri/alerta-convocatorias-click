@@ -4,6 +4,59 @@
       "slug": "oei-licitaciones-todas-las-sedes",
       "nombre": "OEI · licitaciones (todas las sedes)",
       "url": "https://oei.int/licitaciones-y-convocatorias/",
+      "fecha": "2026-11-25T17:58:55+00:00",
+      "fecha_texto": "25/11/2026 12:58 p. m.",
+      "agregadas": [
+        "Licitaciones ( 3393 )",
+        "3388",
+        "10 Dic. 2026 · 00:00",
+        "Ref. OEI/SIM/18/2026 · En evaluación",
+        "“CONTRATACIÓN DE SERVICIOS ESPECIALIZADOS PARA EL DISEÑO E IMPLEMENTACIÓN DE LA SEGUNDA COHORTE DEL PROGRAMA DE FORMACIÓN EN MODELO DE NEGOCIO Y MONETIZACIÓN PARA 25 CREADORES DE CONTENIDO DE LA INDUSTRIA CULTURAL Y CREATIVA (ICC)”",
+        "FORCYT – La transferencia de conocimiento en Iberoamérica: sistematización de la experiencia piloto del programa FORCYT 2023",
+        "Convocatoria Pública para la Contratación de Facilitador para el Proyecto Construcción de Comunidades Lectoras de Docentes en Formación",
+        "Licitación",
+        "La Agencia Espacial Portuguesa presidirá la Red Iberoamericana de Agencias Aeroespaciales de la OEI",
+        "Nota de prensa | 16 May. 2024"
+      ],
+      "agregadas_n": 10,
+      "quitadas_n": 7,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/11"
+    },
+    {
+      "slug": "alcaldia-de-bogota-boletin-de-oferta-internacional",
+      "nombre": "Alcaldía de Bogotá · boletín de oferta internacional",
+      "url": "https://bogota.gov.co/boletin-de-oferta-internacional/",
+      "fecha": "2026-11-25T17:58:55+00:00",
+      "fecha_texto": "25/11/2026 12:58 p. m.",
+      "agregadas": [
+        "GCBC 2026: hasta £1,5 millones para proteger la biodiversidad",
+        "¿Y si una investigación desarrollada desde Bogotá pudiera contribuir a proteger la Amazonía y mejorar la vida de sus comunidades? Las grandes transformaciones ambientales también comienzan con preguntas, conocimiento y colaboración.",
+        "El Global C...",
+        "Prográmate este 28 y 29 de noviembre para Salsa al Parque 2026 en Bogotá con 15 agrupaciones",
+        "24-Nov-2026"
+      ],
+      "agregadas_n": 5,
+      "quitadas_n": 6,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/12"
+    },
+    {
+      "slug": "colombia-aprende-men-convocatorias",
+      "nombre": "Colombia Aprende (MEN) · convocatorias",
+      "url": "https://colombiaaprende.edu.co/agenda/convocatorias",
+      "fecha": "2026-11-25T17:58:55+00:00",
+      "fecha_texto": "25/11/2026 12:58 p. m.",
+      "agregadas": [
+        "19/11/2026",
+        "¡Inscripciones abiertas al Foro Educativo Nacional 2026!"
+      ],
+      "agregadas_n": 2,
+      "quitadas_n": 2,
+      "aviso": "https://github.com/juanjose-muri/alerta-convocatorias-click/issues/13"
+    },
+    {
+      "slug": "oei-licitaciones-todas-las-sedes",
+      "nombre": "OEI · licitaciones (todas las sedes)",
+      "url": "https://oei.int/licitaciones-y-convocatorias/",
       "fecha": "2026-11-24T18:54:28+00:00",
       "fecha_texto": "24/11/2026 1:54 p. m.",
       "agregadas": [
