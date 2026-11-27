@@ -44,6 +44,10 @@ Se solicita no enviar información adicional a la requerida en la convocatoria.
 Si la empresa no cumple con las consideraciones antes descritas se considerará como NO válida.
 EXTENSIÓN DE FECHAS DE PUBLICACIÓN DE RESPUESTA A PREGUNTAS Y CIERRE DE CONVOCATORIA
 RFP2026-19 UNICEF Colombia busca empresa para Evaluar los logros, desafíos, factores facilitadores y limitantes del mecanismo inter-agencial de Prevención de la Explotación y el Abuso Sexual (PEAS) de Norte de Santander (2025 y 2026), según los criterios de pertinencia, coherencia, efectividad y sostenibilidad, y generar recomendaciones para su mejoramiento y replica en otros departamentos del país.
+Debe diligenciar la siguiente declaración aquí Tener en cuenta para diligenciar el formato la siguiente información:
+Terms and Conditions of Solicitation No: RFP2026-19
+Currency of Proposal: COP-Pesos Colombianos
+Validity of Proposal: Mínimo 45 días.
 Envíe la propuesta al correo [email protected] con el asunto: “RFP2026-19 Evaluación mecanismo interagencial PEAS”.
 Las propuestas se deben enviar con el asunto “RFP2026-19 Evaluación mecanismo interagencial PEAS”.
 . al correo electrónico [email protected].
@@ -56,11 +60,12 @@ Copia de documento de identidad del representante legal
 Rut (Generado no mayor a 30 días)
 RFP2026-20 UNICEF Colombia busca empresa para Desarrollar un Modelo de Gestión del Conocimiento sobre soluciones tecnológicas de Agua, Saneamiento e Higiene (WASH) para contextos rurales de Colombia, que permita identificar, sistematizar, analizar y transferir conocimiento sobre alternativas tecnológicas sostenibles, fortaleciendo la toma de decisiones, la planeación, la 􀏐financiación, la gobernanza y la sostenibilidad de los servicios WASH, con el 􀏐in de contribuir al cierre de brechas de acceso para las comunidades más vulnerables.
 Summary aquí
+Terms and Conditions of Solicitation No: RFP2026-20
 Envíe la propuesta al correo [email protected] con el asunto: “RFP2026-20 Soluciones Tecnológicas WASH”.
 Las propuestas se deben enviar con el asunto “RFP2026-20 Soluciones tecnológicas WASH” al correo electrónico [email protected].
 Fecha límite de presentación de propuesta: 10 de diciembre de 2026
 RFP2026-18 UNICEF Colombia busca empresa para realizar un análisis integral del sistema alimentario en territorios priorizados, que identifique capacidades productivas, cadenas de valor y actores locales con potencial para fortalecer la producción y disponibilidad de alimentos complementarios nutritivos, seguros y sostenibles para niñas y niños de 6 a 24 meses.
-Debe diligenciar la siguiente declaración aquí(Por favor, tener en cuenta que al responder YES significa que la empresa y su gerencia no han llegado a alguna de esas situaciones legales, mientras que marcar NO significa que sí lo han sido)
+Terms and Conditions of Solicitation No: RFP2026-18
 Envíe la propuesta al correo [email protected] con el asunto: “RFP2026-18 Análisis Territorial de Sistemas Alimentarios”.
 Las propuestas se deben enviar con el asunto “RFP2026-18 Análisis Territorial de Sistemas Alimentarios”.
 Fecha máxima de solicitudes de aclaración 27 de noviembre de 2026
